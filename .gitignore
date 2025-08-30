@@ -1,0 +1,74 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+nbproject/private/private.xml
+nbproject/private/private.xml
+*.xml
+archivos/uploads/14da6ab41944251ff1cc43153191ee8982c7a064.pdf
+*.pdf
+archivos/uploads/6064c450da152149aa10ebf224a5967b95de95ea.png
+archivos/uploads/75464a3abf022c82269d522d551041e4b83ae49a.png
+archivos/uploads/6acfd9269e36a225e0e88fd2edc367312902b89c.png
+archivos/uploads/ac277b63eb7d0a73a4e92be0fd881def0ad8e23b.jpg
+
+*.png
+
+*.jpg
+nbproject/private/private.xml
+*.xml
+nbproject/private/private.xml
+*.xml
+*.xml
+nbproject/private/private.xml
+nbproject/private/private.xml
+*.xlsx
+.idea/SGC2.iml
+nbproject/private/private.xml
+nbproject/private/private.xml
+nbproject/private/private.xml
+vendor
+.env

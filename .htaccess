@@ -1,0 +1,6 @@
+RewriteEngine On
+Options -Indexes
+ErrorDocument 404 /sgcp/_errores/404.php
+ErrorDocument 403 /sgcp/_errores/403.php
+ErrorDocument 401 /sgcp/_errores/401.php
+
