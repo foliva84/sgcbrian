@@ -1,0 +1,186 @@
+
+cd /c/wamp64/bin/mysql/mysql9.1.0/bin
+
+mysql -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\archivos_202508281726.sql"
+bash: mysql: command not found
+
+
+fernando.oliva@CORIS175 MINGW64 /c/wamp64/bin/mysql/mysql9.1.0/bin
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\accrued_estados_202508290248.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\accrued_lote_tipos_202508290247.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\accrued_lotes_202508290245.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\archivos_202508290242.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\archivos_facturas_202508290239.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\archivos_prestador_202508290237.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\archivos_reintegros_202508290233.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\casos_202508281829.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\casos_agenda_202508290228.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\casos_estados_202508290226.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\categorias_diagnostico_202508281839.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\ciudades_202508290223.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\clientes_202508290222.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\clientes_products_202508290220.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\comunicaciones\comunicaciones_202508281914.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\comunicaciones_asunto_tipos_202508282005.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\comunicaciones_asuntos_202508290202.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\comunicaciones_factura_202508290200.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\comunicaciones_reintegro_202508290154.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\continentes_202508290255.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\coverage\coverage_202508290109.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\diagnostico_categoria_202508282043.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\diagnostico_inicio_202508282045.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\diagnosticos_202508290106.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\emails_202508290104.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\facturas_202508290103.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\facturas_estados_202508290102.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\facturas_prioridades_202508290101.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fc_items_202508290059.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fc_items_bak_202508290058.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fci_motivos_rechazos_202508290057.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fci_movimientos_202508290053.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fci_movimientos_estados_202508290052.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fci_servicios_202508282105.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\fees_202508290037.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\formas_pagos_202508290035.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\gop_202508290034.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\monedas_202508290032.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\old_facturas_202508282113.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\old_facturas_estados_202508290031.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\paginas_202508290029.sql"
+															   
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\pais_continente_202508282118.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\paises_202508290027.sql"
+															   
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\permisos_202508282313.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\practicas_202508290025.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_202508290024.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_ciudades_202508290023.sql"
+															   
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_contratos_202508290022.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_paises_202508290020.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_practicas_202508290019.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\prestadores_prioridades_202508290017.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\product_202508290016.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\re_tipos_avisotransferencia_202508290015.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\re_tipos_referencia_202508290014.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\reintegros_202508290012.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\reintegros_agenda_202508290011.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\reintegros_estados_202508290010.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\reintegros_items_202508290008.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\reintegros_items_bak_202508290006.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\ri_conceptos_202508290004.sql"
+															   
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\ri_estados_202508290002.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\ri_motivos_rechazos_202508282356.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\ri_movimientos_202508282353.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\roles_202508282305.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\roles_permisos_202508282310.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\se_202508282349.sql"
+															   
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\servicios_202508282346.sql"
+
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\telefonos_202508282343.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_asistencias_202508282340.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_clientes_202508282338.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_documentos_202508282336.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_emails_202508282334.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_facturas_202508282329.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_prestadores_202508282326.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\tipos_telefonos_202508282324.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\usuarios_202508282317.sql"
+															    
+"C:\wamp64\bin\mysql\mysql9.1.0\bin\mysql.exe" --binary-mode=1 --default-character-set=utf8mb4 -u root -p sgc_dev < "C:\Users\fernando.oliva\Downloads\sgc-tablas\voucher_202508282321.sql"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
