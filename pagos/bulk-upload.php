@@ -2,7 +2,14 @@
 require '../seguridad/seguridad.php';
 require_once '../clases/DB.php';
 
+$modo = $_SERVER['BULK_PAYMENTS_MODE']
+     ?? getenv('BULK_PAYMENTS_MODE')
+     ?? 'preview';
+
+var_dump($modo); // deber�a mostrar "preview"
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    echo 'entre';
     $dsn = 'mysql:host=' . DB_HOST . ';dbname=' . DB_NAME . ';charset=utf8';
     $pdo = new PDO($dsn, DB_USER, DB_PASS, [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
     require_once __DIR__ . '/BulkPaymentsController.php';

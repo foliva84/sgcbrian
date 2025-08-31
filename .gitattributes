@@ -17,3 +17,4 @@
 *.sql filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+BD/ddl/bulk_payments_staging.sql -filter -diff -merge text
