@@ -1,6 +1,18 @@
 RewriteEngine On
 Options -Indexes
-ErrorDocument 404 /sgcp/_errores/404.php
-ErrorDocument 403 /sgcp/_errores/403.php
-ErrorDocument 401 /sgcp/_errores/401.php
+ErrorDocument 404 /sgc-brian/_errores/404.php
+ErrorDocument 403 /sgc-brian/_errores/403.php
+ErrorDocument 401 /sgc-brian/_errores/401.php
 
+# ===== Flags de la carga masiva =====
+<IfModule mod_env.c>
+  SetEnv BULK_PAYMENTS_MODE preview
+  SetEnv BULK_BATCH_SIZE 200
+  SetEnv BULK_PREVIEW_LIMIT 200
+</IfModule>
+
+# Restringo upload por seguridad
+#<Files "bulk-upload.php">
+#  Require ip 127.0.0.1
+  # o Require local / o Require valid-user (si tenés auth)
+#</Files>
